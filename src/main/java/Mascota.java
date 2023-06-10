@@ -3,13 +3,13 @@ import java.util.ArrayList;
 public class Mascota {
 	protected String nombre;
 	protected String color;
-	protected ArrayList<Persona> dueños = new ArrayList<Persona>();
+	protected ArrayList<Persona> dueÃ±os = new ArrayList<Persona>();
 
 	public void comer() {
 		throw new UnsupportedOperationException();
 	}
 
-	public Mascota(String nombre, ArrayList<Persona> dueños) {
+	public Mascota(String nombre, ArrayList<Persona> dueÃ±os) {
 		throw new UnsupportedOperationException();
 	}
 }
