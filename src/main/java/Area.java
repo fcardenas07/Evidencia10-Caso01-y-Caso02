@@ -1,0 +1,7 @@
+public enum Area {
+	ADQUISICIONES, 
+	VENTAS, 
+	PRODUCCION, 
+	LOGISTICA, 
+	FINANZAS;
+}
